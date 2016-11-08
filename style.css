@@ -1,30 +1,17 @@
 h1
-{
-  color: red;
-}
+{color: red;}
 
 a
-{
-  color: purple;
-}
+{color: purple;}
 
 body
-{
-  background-color: yellow;
-  color: white;
-}
+{background-color: yellow; color: white;}
 
 h2
-{
-  text-align: center;
-}
+{text-align: center;}
 
 #zen-benefits p
-{
-  text-align: right;
-}
+{ text-align: right;}
 
 header
-{
-  background-color: black;
-}
+{background-color: black;}
