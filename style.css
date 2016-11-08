@@ -1,19 +1,30 @@
-h1{
- color: red
-}
-a{
-  color: purple
-}
-body{
-  background-color: yellow
-}
-p{
-  color: white
-}
-h3{
-  color: red
-}
-h2{
-  color: red
+h1
+{
+  color: red;
 }
 
+a
+{
+  color: purple;
+}
+
+body
+{
+  background-color: yellow;
+  color: white;
+}
+
+h2
+{
+  text-align: center;
+}
+
+#zen-benefits p
+{
+  text-align: right;
+}
+
+header
+{
+  background-color: black;
+}
